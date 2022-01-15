@@ -1,4 +1,4 @@
-# Principle-Language-Project-1-Compiler-for-TinyL-Language
+# CS314-Principle-Language-Project-1-Compiler-for-TinyL-Language
 
 Summary:
 
